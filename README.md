@@ -5,9 +5,9 @@ I'm David Ritter, an Electrical Engineering student at the University of Texas a
 I enjoy working with embedded systems, microcontrollers, and hardware-based projects that combine electronics and software.
 
 🔧 **Technologies & Tools**
-- Microcontrollers: Raspberry Pi Pico 2W, Arduino, Raspberry Pi
-- Programming: Python, C/C++, Embedded Systems
-- Circuit Design & Simulation: Multisim, PSpice
+- Microcontrollers: Raspberry Pi Pico 2W, Arduino Uno
+- Programming: Python, C/C++
+- Circuit Design & Simulation: Multisim, KiCad
 - Hardware: Breadboard prototyping, soldering, troubleshooting
 
 🚀 **Current Projects**
@@ -19,7 +19,3 @@ I enjoy working with embedded systems, microcontrollers, and hardware-based proj
 - Embedded systems development
 - Control systems
 - Robotics and autonomous systems
-
-📫 **How to reach me**
-- LinkedIn: (add your LinkedIn link)
-- Email: david.ritter@my.utsa.edu
