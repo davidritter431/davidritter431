@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**davidritter431/davidritter431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm David Ritter, an Electrical Engineering student at the University of Texas at San Antonio.
 
-Here are some ideas to get you started:
+I enjoy working with embedded systems, microcontrollers, and hardware-based projects that combine electronics and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Technologies & Tools**
+- Microcontrollers: Raspberry Pi Pico 2W, Arduino, Raspberry Pi
+- Programming: Python, C/C++, Embedded Systems
+- Circuit Design & Simulation: Multisim, PSpice
+- Hardware: Breadboard prototyping, soldering, troubleshooting
+
+🚀 **Current Projects**
+- Autonomous Mini-Rover
+- Microcontroller-based control systems
+- Raspberry Pi Pico embedded development
+
+🌱 **Currently Learning**
+- Embedded systems development
+- Control systems
+- Robotics and autonomous systems
+
+📫 **How to reach me**
+- LinkedIn: (add your LinkedIn link)
+- Email: david.ritter@my.utsa.edu
