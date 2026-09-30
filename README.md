@@ -11,8 +11,9 @@ I enjoy working with embedded systems, microcontrollers, and hardware-based proj
 - Hardware: Breadboard prototyping, soldering, troubleshooting
 
 🚀 **Current Projects**
-- Microcontroller-based control systems
-- Raspberry Pi Pico embedded development
+- FreeRTOS Research
+- Project VENATOR Coding
+- Blackjack 
 
 🌱 **Currently Learning**
 - Embedded systems development
